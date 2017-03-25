@@ -1,0 +1,12 @@
+
+State Machine - |Block2|SM1:inst|fstate
+Name fstate.Reset_twelve fstate.twelve_hours fstate.hour_t fstate.hour_u fstate.min_t fstate.min_u fstate.lpm_counter0 fstate.sec_u fstate.sec_t 
+fstate.sec_t 0 0 0 0 0 0 0 0 0 
+fstate.sec_u 0 0 0 0 0 0 0 1 1 
+fstate.lpm_counter0 0 0 0 0 0 0 1 0 1 
+fstate.min_u 0 0 0 0 0 1 0 0 1 
+fstate.min_t 0 0 0 0 1 0 0 0 1 
+fstate.hour_u 0 0 0 1 0 0 0 0 1 
+fstate.hour_t 0 0 1 0 0 0 0 0 1 
+fstate.twelve_hours 0 1 0 0 0 0 0 0 1 
+fstate.Reset_twelve 1 0 0 0 0 0 0 0 1 

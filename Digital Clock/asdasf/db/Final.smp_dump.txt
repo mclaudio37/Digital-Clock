@@ -1,0 +1,6 @@
+
+State Machine - |Block2|SM1:cu|fstate
+Name fstate.lpm_counter2 fstate.lpm_counter1 fstate.lpm_counter0 
+fstate.lpm_counter0 0 0 0 
+fstate.lpm_counter1 0 1 1 
+fstate.lpm_counter2 1 0 1 

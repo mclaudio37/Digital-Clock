@@ -1,0 +1,10 @@
+
+State Machine - |Block2|SM1:cu|fstate
+Name fstate.Hour_t fstate.Hour_u fstate.min_t fstate.min_u fstate.sec_t fstate.sec_u fstate.count_to_one_sec 
+fstate.count_to_one_sec 0 0 0 0 0 0 0 
+fstate.sec_u 0 0 0 0 0 1 1 
+fstate.sec_t 0 0 0 0 1 0 1 
+fstate.min_u 0 0 0 1 0 0 1 
+fstate.min_t 0 0 1 0 0 0 1 
+fstate.Hour_u 0 1 0 0 0 0 1 
+fstate.Hour_t 1 0 0 0 0 0 1 
